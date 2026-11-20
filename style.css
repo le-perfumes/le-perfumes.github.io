@@ -2414,7 +2414,7 @@ body {
 }
 .perfume__name {
   font:
-    300 clamp(29px, 3vw, 43px)/1 "Cormorant Garamond",
+    300 20px/1 "Cormorant Garamond",
     Georgia,
     serif;
   letter-spacing: -0.025em;
@@ -2424,8 +2424,7 @@ body {
   font-size: 11px;
   line-height: 1.7;
   color: #97868b;
-  min-height: 37px;
-  margin: 13px 0 16px;
+  margin: 5px 0;
 }
 .perfume__options {
   display: flex;
@@ -2713,11 +2712,10 @@ body {
     padding-top: 15px;
   }
   .perfume__name {
-    font-size: clamp(25px, 7vw, 36px);
+    font-size: 20px;
   }
   .perfume__notes {
     font-size: 10px;
-    margin: 9px 0 13px;
   }
   .perfume__volume {
     font-size: 9px;
@@ -2890,7 +2888,6 @@ body {
   background: #efdad8;
 }
 .perfume__photo {
-  filter: saturate(0.85) contrast(0.96);
   object-position: center;
 }
 .perfume__media:after {
@@ -3196,9 +3193,8 @@ body {
   background: linear-gradient(150deg, #fff9f7 0%, #f6e8e4 55%, #f1dedd 100%);
 }
 .perfume__photo {
-  filter: saturate(0.86) contrast(0.97);
   object-fit: contain !important;
-  padding: 11% 11% 18%;
+  padding: 20% 10% 5%;
   mix-blend-mode: multiply;
 }
 @media (max-width: 650px) {
@@ -3207,9 +3203,6 @@ body {
     background-position: 64% top;
     background-size: auto 650px;
     opacity: 0.68;
-  }
-  .perfume__name {
-    font-size: clamp(23px, 6vw, 33px);
   }
 }
 
@@ -7144,4 +7137,12 @@ html {
 .footer__phone:hover,
 .footer__phone:focus-visible {
   color: var(--rose);
+}
+
+/* Короткі описи ароматів у картках каталогу */
+.perfume__description {
+  margin: 5px 0 15px;
+  font-size: 12px;
+  line-height: 1.6;
+  color: #73676b;
 }
