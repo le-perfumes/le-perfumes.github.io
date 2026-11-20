@@ -136,7 +136,7 @@
       name: "Afnan — Theorème Pour Homme",
       type: "ПАРФУМЕРІЯ НА РОЗПИВ",
       notes: "цитрус · прянощі · деревина",
-      image: "img/AfnanTheorèmePourHomme.webp",
+      image: "img/AfnanTheoremePourHomme.webp",
       prices: {},
       description:
         "Свіжа цитрусова композиція з пряними відтінками та чистим деревним шлейфом.",
@@ -266,7 +266,7 @@
       name: "Essential Parfums — Bois Impérial",
       type: "ПАРФУМЕРІЯ НА РОЗПИВ",
       notes: "базилік · ветивер · деревина",
-      image: "img/EssentialParfumsBoisImpérial.webp",
+      image: "img/EssentialParfumsBoisImperial.webp",
       prices: {},
       description:
         "Зелений, пряно-деревний аромат із характерною сухою свіжістю та виразним шлейфом.",
@@ -326,7 +326,7 @@
       name: "Initio Parfums Privés — Power Self",
       type: "ПАРФУМЕРІЯ НА РОЗПИВ",
       notes: "квіти · мускус · деревина",
-      image: "img/InitioParfumsPrivésPowerSelf.webp",
+      image: "img/InitioParfumsPrivesPowerSelf.webp",
       prices: {},
       description:
         "Сучасна композиція з м’яким квітковим настроєм і чистим обволікальним шлейфом.",
@@ -406,7 +406,7 @@
       name: "Karl Lagerfeld — Fleur de Pêcher",
       type: "ПАРФУМЕРІЯ НА РОЗПИВ",
       notes: "персик · квіти · мускус",
-      image: "img/KarlLagerfeldFleurdePêcher.webp",
+      image: "img/KarlLagerfeldFleurdePecher.webp",
       prices: {},
       description:
         "Делікатний квітково-фруктовий аромат із соковитим персиковим настроєм.",
@@ -416,7 +416,7 @@
       name: "Lancôme — Idôle",
       type: "ПАРФУМЕРІЯ НА РОЗПИВ",
       notes: "троянда · жасмин · білий мускус",
-      image: "img/LancômeIdôle.webp",
+      image: "img/LancomeIdole.webp",
       prices: {},
       description:
         "Чистий, світлий квітковий аромат із ніжною трояндою та прозорим мускусним шлейфом.",
@@ -615,7 +615,7 @@
       name: "Parfums de Marly — Delina La Rosée",
       type: "ПАРФУМЕРІЯ НА РОЗПИВ",
       notes: "троянда · лічі · півонія",
-      image: "img/ParfumsdeMarlyDelinaLaRosée.webp",
+      image: "img/ParfumsdeMarlyDelinaLaRose.webp",
       prices: {},
       description:
         "Свіжа, прозора версія трояндової елегантності з легким фруктовим звучанням.",
@@ -743,7 +743,7 @@
       name: "Versace — Eau Fraîche",
       type: "ПАРФУМЕРІЯ НА РОЗПИВ",
       notes: "лимон · карамбола · кедр",
-      image: "img/VersaceEauFraîche.webp",
+      image: "img/VersaceEauFrache.webp",
       prices: {},
       description:
         "Свіжий водяно-цитрусовий аромат із прохолодними деревними відтінками.",
